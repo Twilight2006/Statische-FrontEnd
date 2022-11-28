@@ -1,18 +1,21 @@
 h1{
     text-align: center;
-    padding: auto;
-    margin:auto;
-    color:darkmagenta
+    color:darkmagenta;
+    background-color: yellowgreen;
 }
 
 h2{
-    color:darkorchid
+    color:darkgreen
 }
 
 body{
-    padding: 30px;
-    margin: 10px;
-    background-color: lightgray; 
+    background-color: orange;
+    margin: 20px;
+    padding: 20px;
+}
+
+div{
+    background-color: rgb(224, 226, 101); 
     color: darkblue
 }
 
