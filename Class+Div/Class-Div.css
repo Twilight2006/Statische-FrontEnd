@@ -1,0 +1,47 @@
+h1{
+    color:blue;
+    padding: 20px;
+}
+
+body{
+    background-color: white;
+    padding: 40px;
+}
+
+.first{
+   background-color: lime; 
+   font-weight: bold;
+   font-size: 20px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+.second{
+    background-color: burlywood;
+    font: initial
+}
+
+.h12{
+    color:red;
+    font: initial;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.h22{
+    color: darkgreen;
+    font-size:20px;
+}
+
+div{
+    background-color: bisque;
+    margin: 20px;
+}
+
+html{
+    background-color: gray;
+    padding: 40px;
+
+}

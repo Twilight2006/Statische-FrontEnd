@@ -24,6 +24,22 @@ a{
     
 }
 
+a:link{
+    color:blue;
+}
+
+a:visited{
+    color:blue;
+}
+
+a:hover{
+    color:green;
+}
+
+a:active{
+    color:burlywood;
+}
+
 
 
 
