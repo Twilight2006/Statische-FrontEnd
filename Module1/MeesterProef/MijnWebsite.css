@@ -1,0 +1,65 @@
+html{
+    background-color: black;
+    border: 20px solid white ;
+    font-family: sans-serif;
+}
+
+h1{
+    color: white
+    
+}
+
+p{
+    color: white
+}
+
+div.Informatie{
+    background-color: rgb(127, 127, 127);
+    border: 15px solid darkblue;
+    margin: 50px;
+    text-align: center;
+    color: white;
+}
+
+.Informatie>h1{
+    color: black
+}
+
+a:hover{
+    color: darkblue
+}
+
+div.Hobby{
+    background-color: rgb(127, 127, 127);
+    border: 15px solid darkblue;
+    margin: 50px;
+    color: white
+}
+
+.Hobby>h1{
+    text-align: center;
+}
+    
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 2px 4px;
+text-decoration: none;
+}
+
+div.CV{
+    background-color: rgb(127, 127, 127);
+    border: 15px solid darkblue;
+    margin: 50px;
+    text-align: center;
+    color: white;
+}
